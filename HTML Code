@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Clara's Website</title>
+  </head>
+  <body>
+    <header>
+      <div></div>
+      <div><h1>Clara Wang<\h1></div>
+      <p>Computer Science Undergraduate at Carnegie Mellon University</p>
+    </header>
+    <main>
+      <div>
+        <p> Hi! I love taking on challenging new projects. You may be able to find me </p>
+        <ul>
+          <li> Painting </li>
+          <li> Dancing </li>
+        </ul>
+        <h2>Resume</h2>
+        <p>If you would like to contact me or know more about what I do, here is my <a href = "./resume.pdf>Resume</a></p>
+        <hr /> 
+        <a href = "https://github.com/cmugpi">My Github </a>
+      </div>
+    </main>
+  </body>
+</html>
+       
